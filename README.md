@@ -9,7 +9,7 @@
 * In this project, I conducted an analysis of a bike store sales dataset with the goal of uncovering sales trends and patterns, informing strategic decisions, and presenting findings through visualizations. The analysis focused on various aspects, including revenue, product categories, customer behavior, and the impact of sales representatives. The project aimed to provide actionable insights to guide informed decision*making within the business.
 
 # Data
-- The dataset used for this analysis contains the following columns:
+- The dataset employed in this analysis comprises 4722 rows and encompasses the following columns: :
 
 * Order_id
 * Customers
@@ -108,3 +108,6 @@
 * Market Diversification: While New York state has been a significant contributor, exploring opportunities in other states can diversify the market and mitigate risks.
 * Monitoring Trends: The store should continually monitor market trends, keeping an eye on customer preferences, and adapting strategies accordingly.
 * By leveraging the strengths of previous successful years and focusing on key product categories and regions, the bike store can strategically enhance its sales and revenue performance.
+
+For a detailed visualization of the analysis, you can view the Tableau dashboard [here]([URL_TO_YOUR_TABLEAU_DASHBOARD](https://public.tableau.com/app/profile/ajinkya.andraskar/viz/BikeStoreSalesDashboard_16914838432060/Dashboard1?publish=yes)https://public.tableau.com/app/profile/ajinkya.andraskar/viz/BikeStoreSalesDashboard_16914838432060/Dashboard1?publish=yes).
+
