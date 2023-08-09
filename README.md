@@ -109,5 +109,5 @@
 * Monitoring Trends: The store should continually monitor market trends, keeping an eye on customer preferences, and adapting strategies accordingly.
 * By leveraging the strengths of previous successful years and focusing on key product categories and regions, the bike store can strategically enhance its sales and revenue performance.
 
-For a detailed visualization of the analysis, you can view the Tableau dashboard [here]([URL_TO_YOUR_TABLEAU_DASHBOARD](https://public.tableau.com/app/profile/ajinkya.andraskar/viz/BikeStoreSalesDashboard_16914838432060/Dashboard1?publish=yes)https://public.tableau.com/app/profile/ajinkya.andraskar/viz/BikeStoreSalesDashboard_16914838432060/Dashboard1?publish=yes).
+For a detailed visualization of the analysis, you can view the Tableau dashboard [here](https://public.tableau.com/app/profile/ajinkya.andraskar/viz/BikeStoreSalesDashboard_16914838432060/Dashboard1?publish=yes).
 
